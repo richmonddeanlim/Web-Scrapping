@@ -53,7 +53,7 @@ pip install beautifulsoup4
 ## Usage
 Run the Python script:
 ```
-python main.py
+python webscrap_carousell.py
 ```
 The program will:
 1. Send a request to the target website
